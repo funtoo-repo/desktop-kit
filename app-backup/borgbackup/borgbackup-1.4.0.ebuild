@@ -6,7 +6,7 @@ PYTHON_COMPAT=( python3+ )
 DISTUTILS_USE_PEP517="setuptools"
 inherit distutils-r1
 
-DESCRIPTION="Deduplicated, encrypted, authenticated and compressed backups"
+DESCRIPTION="Deduplicated encrypted authenticated and compressed backups"
 HOMEPAGE="None https://pypi.org/project/borgbackup/"
 SRC_URI="https://files.pythonhosted.org/packages/dd/0d/28e60180ce4ae171adba65ce9f8878fce3580c6d2cfdfa998929175105dd/borgbackup-1.4.0.tar.gz -> borgbackup-1.4.0.tar.gz"
 
