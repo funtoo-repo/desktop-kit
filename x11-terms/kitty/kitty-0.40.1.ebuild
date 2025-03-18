@@ -71,15 +71,15 @@ EGO_SUM=(
 	"golang.org/x/exp v0.0.0-20230801115018-d63ba01acd4b"
 	"golang.org/x/exp v0.0.0-20230801115018-d63ba01acd4b/go.mod"
 	"golang.org/x/image v0.0.0-20191009234506-e7c1f5e7dbb8/go.mod"
-	"golang.org/x/image v0.24.0"
-	"golang.org/x/image v0.24.0/go.mod"
+	"golang.org/x/image v0.25.0"
+	"golang.org/x/image v0.25.0/go.mod"
 	"golang.org/x/sys v0.0.0-20190916202348-b4ddaad3f8a3/go.mod"
 	"golang.org/x/sys v0.0.0-20201204225414-ed752295db88/go.mod"
 	"golang.org/x/sys v0.5.0/go.mod"
 	"golang.org/x/sys v0.8.0/go.mod"
 	"golang.org/x/sys v0.11.0/go.mod"
-	"golang.org/x/sys v0.30.0"
-	"golang.org/x/sys v0.30.0/go.mod"
+	"golang.org/x/sys v0.31.0"
+	"golang.org/x/sys v0.31.0/go.mod"
 	"golang.org/x/text v0.3.0/go.mod"
 	"gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod"
 	"gopkg.in/yaml.v1 v1.0.0-20140924161607-9f9df34309c0/go.mod"
@@ -91,8 +91,8 @@ EGO_SUM=(
 
 go-module_set_globals
 
-SRC_URI="https://github.com/kovidgoyal/kitty/releases/download/v0.40.0/kitty-0.40.0.tar.xz -> kitty-0.40.0.tar.xz
-https://direct-github.funmore.org/ae/27/7d/ae277defff00c7182af7b80661333b1d861e795120d1de6f0197f46e57349e6e265351e7c97d875bee34885b1235a7da01cb894425612f52c7c66930b8ca749f -> kitty-0.40.0-funtoo-go-bundle-cb9ef2764917fa5b4e105de774e5a60cbf9a5d01d450e6401360e3f721acdbcdb45920cb6b0fd7724f970dc1fa7b829a9e40d58abf547808c754cdab6bc29a9c.tar.gz"
+SRC_URI="https://github.com/kovidgoyal/kitty/releases/download/v0.40.1/kitty-0.40.1.tar.xz -> kitty-0.40.1.tar.xz
+https://direct-github.funmore.org/c8/ce/ed/c8ceed0b20ad4d7155ea6275c7504cbe678b75f8138e4e47ed7b5540fca1ccdc31469005e3f9b666f1f6f3ee1bbfe2c312e3104c977c6c0d6676a90f692d23d0 -> kitty-0.40.1-funtoo-go-bundle-f1844de1a944df143999c038b8c85a2a0369099714ab0b079e9e84a297ab836de17c556a50d22df84c960a49a3c8a066cf4f262fa8bb90216d3a0abab7afa633.tar.gz"
 KEYWORDS="next"
 
 DESCRIPTION="Cross-platform, fast, feature-rich, GPU based terminal"
