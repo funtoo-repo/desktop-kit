@@ -95,7 +95,7 @@ SRC_URI="https://github.com/kovidgoyal/kitty/releases/download/v0.43.1/kitty-0.4
 https://direct-github.funmore.org/c5/28/ee/c528ee587fa785fec161f9a2216b832831c218f95a4e439c491641d5e9753b5b433817418d009f5cf5e0490c7a0fb3426129db4db7ad2754619515a22ac86b99 -> kitty-0.43.1-funtoo-go-bundle-1318d217d2a97746fe2cdcba4c7222895fe5d4bc5849b75b80dad85e04a270002fedc38f3c11a537cefc207eb87d13d63d672dbec592dd2cf10f81aa6b34d274.tar.gz"
 KEYWORDS="next"
 
-DESCRIPTION="Cross-platform, fast, feature-rich, GPU based terminal"
+DESCRIPTION="If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based."
 HOMEPAGE="https://github.com/kovidgoyal/kitty"
 
 LICENSE="GPL-3"
