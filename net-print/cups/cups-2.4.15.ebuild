@@ -4,7 +4,7 @@ EAPI=7
 
 inherit autotools flag-o-matic linux-info xdg pam user
 
-SRC_URI="https://github.com/OpenPrinting/cups/releases/download/v2.4.14/cups-2.4.14-source.tar.gz -> cups-2.4.14-source.tar.gz"
+SRC_URI="https://github.com/OpenPrinting/cups/releases/download/v2.4.15/cups-2.4.15-source.tar.gz -> cups-2.4.15-source.tar.gz"
 KEYWORDS="*"
 
 DESCRIPTION="CUPS - Common Unix Printing System"
@@ -52,7 +52,7 @@ REQUIRED_USE="
 # upstream includes an interactive test which is a nono for gentoo
 RESTRICT="test"
 
-S="${WORKDIR}/cups-2.4.14"
+S="${WORKDIR}/cups-2.4.15"
 
 # systemd-socket.patch from Fedora
 PATCHES=(
